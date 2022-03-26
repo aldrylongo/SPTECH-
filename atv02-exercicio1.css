@@ -1,0 +1,15 @@
+.classe1 {
+  background-color: #b22222;
+  width: 50px;
+  height: 50px;
+  border: 2px solid #7fff00;
+  margin-top: 100px;
+}
+
+.classe2 {
+  background-color: #000000;
+  height: 50vh;
+  width: 50%;
+  border: 10px dashed #b22222;
+  margin: 100px 0 0 100px;
+}
